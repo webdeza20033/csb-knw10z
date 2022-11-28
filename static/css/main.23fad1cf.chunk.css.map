@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CACA,OACE,gBAAiB,CACjB,eACF","file":"main.23fad1cf.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n.card2 {\n  padding-left: 10%;\n  margin-left: 20%;\n}\n"]}
